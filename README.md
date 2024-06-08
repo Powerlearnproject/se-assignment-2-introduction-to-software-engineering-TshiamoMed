@@ -19,6 +19,7 @@ Collaboration: Software engineering emphasizes teamwork and collaboration, while
 Lifecycle: Software engineering considers the entire software lifecycle, ensuring long-term maintenance and evolution of the software, unlike traditional programming which may focus on the immediate problem at hand.
 
 References:
+
 Sommerville, I. (2011). Software Engineering. 9th ed. Addison-Wesley.
 Pressman, R. S. (2014). Software Engineering: A Practitioner's Approach. 8th ed. McGraw-Hill Education.
 
@@ -37,6 +38,7 @@ Deployment: The software is deployed to the production environment where users c
 Maintenance: After deployment, the software enters the maintenance phase, where it is updated, optimized, and debugged as necessary.
 
 References:
+
 Sommerville, I. (2011). Software Engineering. 9th ed. Addison-Wesley.
 Pressman, R. S. (2014). Software Engineering: A Practitioner's Approach. 8th ed. McGraw-Hill Education.
 
@@ -60,6 +62,7 @@ Flexibility: Highly flexible; changes can be easily accommodated.
 Use Case: Ideal for projects with evolving requirements, high uncertainty, and the need for frequent feedback (e.g., software startups, dynamic market products).
 
 References:
+
 Beck, K., et al. (2001). Manifesto for Agile Software Development. Available at: https://agilemanifesto.org/
 Royce, W. W. (1970). Managing the Development of Large Software Systems. Proceedings of IEEE WESCON.
 
@@ -84,6 +87,7 @@ Quality Assurance: Facilitates the creation of test cases and validation criteri
 Stakeholder Alignment: Ensures that the final product meets the users' needs and expectations.
 
 References:
+
 Sommerville, I., and Kotonya, G. (1998). Requirements Engineering: Processes and Techniques. John Wiley & Sons.
 Pressman, R. S. (2014). Software Engineering: A Practitioner's Approach. 8th ed. McGraw-Hill Education.
 
@@ -103,6 +107,7 @@ Reusability: Modules can be reused across different parts of the system or in di
 Parallel Development: Different teams can work on different modules simultaneously, improving productivity and speeding up development.
 
 References:
+
 Stevens, W. P., Myers, G. J., and Constantine, L. L. (1974). Structured Design. IBM Systems Journal, 13(2), 115-139.
 Yourdon, E. (1989). Modern Structured Analysis. Prentice Hall.
 
@@ -125,6 +130,7 @@ User Satisfaction: Ensures the final product meets user requirements and provide
 Cost Efficiency: Identifies issues early when they are cheaper and easier to fix, reducing the cost of late-stage bug fixes.
 
 References:
+
 Myers, G. J., Sandler, C., and Badgett, T. (2011). The Art of Software Testing. 3rd ed. John Wiley & Sons.
 Black, R. (2009). Advanced Software Testing - Vol. 1: Guide to the ISTQB Advanced Certification as an Advanced Test Analyst. Rocky Nook, Inc.
 
@@ -149,6 +155,7 @@ Subversion (SVN): Centralized VCS with a focus on simplicity and performance. Fe
 Mercurial: Distributed VCS similar to Git, known for its ease of use and strong branching capabilities.
 
 References:
+
 Chacon, S., and Straub, B. (2014). Pro Git. 2nd ed. Apress.
 Pilato, C. M., Collins-Sussman, B., and Fitzpatrick, B. W. (2008). Version Control with Subversion. O'Reilly Media.
 
@@ -174,6 +181,7 @@ Stakeholder Expectations: Aligning stakeholder expectations with project deliver
 Team Dynamics: Handling interpersonal issues and maintaining team morale and productivity.
 
 References:
+
 Hughes, B., and Cotterell, M. (2009). Software Project Management. 5th ed. McGraw-Hill Education.
 Schwalbe, K. (2015). Information Technology Project Management. 8th ed. Cengage Learning.
 
@@ -199,6 +207,7 @@ Security: Regular updates and patches help protect the software from security vu
 Performance: Ongoing optimization and updates maintain and improve software performance.
 
 References:
+
 Chapin, N., et al. (2001). Types of Software Maintenance. Journal of Software Maintenance and Evolution: Research and Practice, 13(1), 3-30.
 Pressman, R. S. (2014). Software Engineering: A Practitioner's Approach. 8th ed. McGraw-Hill Education.
 
@@ -221,6 +230,7 @@ Stakeholder Engagement: Involving stakeholders in decision-making processes to e
 Accountability: Taking responsibility for the software and its impact on users and society.
 
 References:
+
 ACM Code of Ethics and Professional Conduct. (2020). Association for Computing Machinery. Available at: https://www.acm.org/code-of-ethics
 IEEE Code of Ethics. (2020). Institute of Electrical and Electronics Engineers. Available at: https://www.ieee.org/about/corporate/governance/p7-8.html
 
